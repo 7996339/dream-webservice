@@ -10,6 +10,10 @@ import java.net.URL;
 
 /**
  * Created by DuLida on 2016/11/14.
+ * 1.创建url
+ * 2.获取命名空间及名称
+ * 3.创建服务
+ * 4.调用
  */
 public class MyClient {
     public static void main(String args[]) {
